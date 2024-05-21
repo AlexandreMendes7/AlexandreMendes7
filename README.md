@@ -1,26 +1,35 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+### Olá, eu sou Alexandre Mendes! 👋
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+- 🔭 Atualmente trabalho como desenvolvedor Front-End
+- 🌱 Estudando programação há 2 anos
+- 🎵 Tenho um canal no YouTube de lo-fi beats
+- 💬 Vamos trocar ideias? Me encontre no meu Discord: 462663058918080533
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### Jogo da Cobrinha 🐍
+
+<p align="center">
+  <iframe src="https://example.com/snake-game" width="400" height="300" frameborder="0" scrolling="no"></iframe>
+</p>
+
+### Linguagens e Ferramentas:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="html5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/css-3/css-3-icon.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+### Estatísticas do GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=algolia" alt="Estatísticas do GitHub de Alexandre Mendes">
+</p>
+
+### Me encontre por aí 🌍:
+- 📺 [YouTube - Meu Canal de Lo-fi Beats](https://www.youtube.com/alex_mendes_j/featured)
+- 💼 [LinkedIn - Alexandre Mendes](https://www.linkedin.com/in/alexandre-mendes-a74060274/)
+- 📷 [Instagram - @alex_mendes_j](https://www.instagram.com/alexmendesj/)
+- 📫 Discord: 462663058918080533
+
+### Obrigado pela visita!
