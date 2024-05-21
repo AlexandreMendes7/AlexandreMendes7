@@ -1,6 +1,6 @@
 # Olá, eu sou Alexandre Mendes! 👋
 
-Tenho 22 anos e sou um desenvolvedor Front-End morando no Rio de Janeiro, Brasil. Estudo programação há 2 anos e sou apaixonado por criar experiências incríveis na web.
+Tenho 22 anos e sou um desenvolvedor Front-End baseado no Rio de Janeiro, Brasil. Estudo programação há 2 anos e sou apaixonado por criar experiências incríveis na web.
 
 ## 💻 Tecnologias e Ferramentas
 
@@ -33,6 +33,14 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreMendes7&theme=algolia" alt="Gráfico de Contribuições de Alexandre Mendes">
 </p>
+
+## 🎶 Canal de Lo-fi Beats
+
+Eu também mantenho um canal de lo-fi beats no YouTube, que você pode conferir aqui: [YouTube - Canal de Lo-fi Beats](https://www.youtube.com/channel/UCW1mEH4wa8JL_01rKGXbnYw)
+
+## 📧 Contato
+
+- 📧 [E-mail](mailto:alexandremendesne@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 🌍 Redes Sociais e Contato
 
