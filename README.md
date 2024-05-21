@@ -1,6 +1,6 @@
 # Olá, eu sou Alexandre Mendes! 👋
 
-Tenho 22 anos e sou um desenvolvedor Front-End baseado no Rio de Janeiro, Brasil. Estudo programação há 2 anos e sou apaixonado por criar experiências incríveis na web.
+Tenho 22 anos e sou um desenvolvedor Front-End morando no Rio de Janeiro, Brasil. Estudo programação há 2 anos e sou apaixonado por criar experiências incríveis na web.
 
 ## 💻 Tecnologias e Ferramentas
 
