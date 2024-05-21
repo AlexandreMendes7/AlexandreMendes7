@@ -19,19 +19,19 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=algolia" alt="Estatísticas do GitHub de Alexandre Mendes">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreMendes7&show_icons=true&theme=algolia" alt="Estatísticas do GitHub de Alexandre Mendes">
 </p>
 
 ## 📊 Linguagens mais Usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=algolia" alt="Linguagens mais Usadas por Alexandre Mendes">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMendes7&layout=compact&theme=algolia" alt="Linguagens mais Usadas por Alexandre Mendes">
 </p>
 
 ## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=algolia" alt="Gráfico de Contribuições de Alexandre Mendes">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreMendes7&theme=algolia" alt="Gráfico de Contribuições de Alexandre Mendes">
 </p>
 
 ## 🌍 Redes Sociais e Contato
@@ -40,3 +40,6 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 - 📷 [Instagram - @alex_mendes_j](https://www.instagram.com/alexmendesj/)
 - 📫 [Discord](https://discord.gg/7UPSftEkH5)
 
+---
+
+Obrigado pela visita! Espero que goste do que vê. Vamos nos conectar e trocar ideias!
