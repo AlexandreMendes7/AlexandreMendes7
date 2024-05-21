@@ -17,15 +17,25 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCW1mEH4wa8JL_01rKGXbnYw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> - Tenho um canal no YouTube onde compartilho beats lo-fi que faço para escutar enquanto estudo.</a>
+  <p>Além do desenvolvimento, também me interesso por outras áreas:</p>
   
-  <a href="https://www.instagram.com/alexmendesj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> - Compartilho meu dia a dia e projetos pessoais no Instagram.</a>
+  <a href="https://www.youtube.com/channel/UCW1mEH4wa8JL_01rKGXbnYw" target="_blank"><img src="https://img.shields.io/badge/YouTube-Canal%20de%20Lo--fi%20Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  <a href="https://discord.gg/7UPSftEkH5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> - Participo de comunidades no Discord para trocar ideias com outros desenvolvedores.</a> 
+  <a href="https://www.instagram.com/alexmendesj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@alexmendesj-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  <a href="mailto:alexandremendesne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> - Entre em contato comigo pelo e-mail alexandremendesne@gmail.com.</a>
+  <a href="https://discord.gg/7UPSftEkH5" target="_blank"><img src="https://img.shields.io/badge/Discord-Comunidade%20de%20Desenvolvedores-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-  <a href="https://www.linkedin.com/in/alexandre-mendes-a74060274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> - Conecte-se comigo no LinkedIn para networking e oportunidades profissionais.</a> 
+  <a href="mailto:alexandremendesne@gmail.com"><img src="https://img.shields.io/badge/Gmail-Entre%20em%20Contato-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/alexandre-mendes-a74060274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+
+<div>
+  <p>Aqui estão alguns links adicionais:</p>
+  
+  - 🚀 Veja meus projetos no [GitHub](https://github.com/AlexandreMendes7)
 </div>
 
 ##
