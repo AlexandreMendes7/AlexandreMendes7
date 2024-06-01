@@ -32,11 +32,6 @@
 
 ##
 
-<div>
-  <p>Aqui estão alguns links adicionais:</p>
-  
-  - 🚀 Veja meus projetos no [GitHub](https://github.com/AlexandreMendes7)
-</div>
 
 ##
 
