@@ -18,8 +18,6 @@
 <div> 
   <p>Além do desenvolvimento, também me interesso por outras áreas:</p>
   
-  <a href="https://www.youtube.com/channel/UCW1mEH4wa8JL_01rKGXbnYw" target="_blank"><img src="https://img.shields.io/badge/YouTube-Canal%20de%20Lo--fi%20Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
   <a href="https://www.instagram.com/alexmendesj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@alexmendesj-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   <a href="mailto:alexandremendesne@gmail.com"><img src="https://img.shields.io/badge/Gmail-Entre%20em%20Contato-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
