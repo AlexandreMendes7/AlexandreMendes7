@@ -1,18 +1,25 @@
+# 👋 Olá, eu sou Alexandre!
 
-<!-- Alexandre Mendes — GitHub Profile README -->
-<!-- Repositório: AlexandreMendes7/AlexandreMendes7 -->
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e projetos criativos  
+🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio de Sá  
+🚀 Atualmente aprimorando minhas habilidades em Front-End, Back-End e UI Design  
+🎵 Produtor musical explorando tecnologia, design e desenvolvimento  
+📚 Aprendendo mais sobre APIs, ecossistema JavaScript e aplicações web modernas  
+⚡ Criando projetos com foco em performance, visual moderno e criatividade  
 
-<div align="center">
+---
 
-# Olá, eu sou Alexandre Mendes 👋
+# 💻 Tech Stack
 
-**Full Stack Developer · Rio de Janeiro, BR**
-
-> Transformo ideias em produtos digitais — do back ao front, do conceito ao deploy.
-> Apaixonado por código limpo e experiências que funcionam.
-
-![Freela](https://img.shields.io/badge/⚡%20Disponível%20para%20freela-6e40c9?style=flat-square)
-![Local](https://img.shields.io/badge/🌎%20Rio%20de%20Janeiro%2C%20BR-1f6feb?style=flat-square)
-![Status](https://img.shields.io/badge/🟢%20Aberto%20a%20projetos-238636?style=flat-square)
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+---
