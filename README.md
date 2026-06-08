@@ -23,3 +23,7 @@
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 ---
+📫 Contato
+
+📧 Email para contato :
+alexandremendesne@gmail.com
