@@ -1,43 +1,72 @@
-## Olá! Eu sou Alexandre Mendes, desenvolvedor Front-End e entusiasta da tecnologia! 👋
+<!-- Alexandre Mendes — GitHub Profile README -->
+<!-- Repositório: AlexandreMendes7/AlexandreMendes7 -->
 
-<div style="display: inline_block"><br>
-  <p>Sou apaixonado por desenvolvimento web e estudo programação há 2 anos. Tenho experiência com as seguintes tecnologias:</p>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alexandre-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-</div>
-  
-##
+<div align="center">
 
-<div> 
-  <p>Além do desenvolvimento, também me interesso por outras áreas:</p>
-  
-  <a href="https://www.instagram.com/alexmendesj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@alexmendesj-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="mailto:alexandremendesne@gmail.com"><img src="https://img.shields.io/badge/Gmail-Entre%20em%20Contato-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/alexandre-mendes-a74060274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# Olá, eu sou Alexandre Mendes 👋
+
+**Full Stack Developer · Rio de Janeiro, BR**
+
+> Transformo ideias em produtos digitais — do back ao front, do conceito ao deploy.
+> Apaixonado por código limpo e experiências que funcionam.
+
+![Freela](https://img.shields.io/badge/⚡%20Disponível%20para%20freela-6e40c9?style=flat-square)
+![Local](https://img.shields.io/badge/🌎%20Rio%20de%20Janeiro%2C%20BR-1f6feb?style=flat-square)
+![Status](https://img.shields.io/badge/🟢%20Aberto%20a%20projetos-238636?style=flat-square)
+
 </div>
 
-##
+---
 
+## 👤 Sobre mim
 
-##
+Desenvolvedor **Full Stack** com foco em criar produtos que as pessoas realmente usam. 2 anos mergulhado em código, sempre aprendendo e construindo coisas novas — de projetos pessoais a freelas.
 
-<div>
-  <p>GitHub Stats:</p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexandreMendes7&show_icons=true&theme=algolia" alt="Estatísticas do GitHub de Alexandre Mendes">
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMendes7&layout=compact&theme=algolia" alt="Linguagens mais Usadas por Alexandre Mendes">
-  </p>
+Quando não estou programando, estou no YouTube falando sobre tecnologia ou explorando alguma ideia nova.
+
+---
+
+## 🛠 Stack
+
+```
+Frontend  →  HTML · CSS · JavaScript · TypeScript · React · Next.js
+Backend   →  Node.js · REST APIs
+Outros    →  Git · GitHub · Figma
+```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="36" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="36" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" title="Node.js" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlexandreMendes7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b692f6&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMendes7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b692f6&text_color=c9d1d9" />
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-alexandremendesne@gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandremendesne@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@alexmendesj-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alexmendesj)
+[![Instagram](https://img.shields.io/badge/Instagram-@alexmendesj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexmendesj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Mendes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-mendes-a74060274/)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🟢 Aberto para freelas e colaborações · Never Say Never 🚀</sub>
 </div>
