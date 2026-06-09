@@ -1,11 +1,13 @@
-# 👋 Olá, eu sou Alexandre!
+# Alexandre Mendes
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia e projetos criativos  
-🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio de Sá  
-🚀 Atualmente aprimorando minhas habilidades em Front-End, Back-End e UI Design  
-🎵 Produtor musical explorando tecnologia, design e desenvolvimento  
-📚 Aprendendo mais sobre APIs, ecossistema JavaScript e aplicações web modernas  
-⚡ Criando projetos com foco em performance, visual moderno e criatividade  
+Desenvolvedor Full Stack em formação e estudante de Ciência da Computação.
+
+Atualmente focado no desenvolvimento de aplicações web modernas, interfaces responsivas e tecnologias do ecossistema JavaScript.
+
+Tenho interesse em Front-End, Back-End, APIs, UI/UX e desenvolvimento de soluções com foco em performance, organização e experiência do usuário.
+
+Também possuo experiência com produção musical, unindo criatividade, tecnologia e design em projetos pessoais.
+
 
 ---
 
